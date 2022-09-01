@@ -1,5 +1,5 @@
 /**
-   * Create By Yahyaganzz
+   * Create By Akmal
 */
 
 require('./config')
@@ -30,8 +30,8 @@ let setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //limit
 limitawal = '10'
-botname = 'AzzBot•MD'
-wm = '© AzzBot - MD'
+botname = 'Neebot,•MD'
+wm = '© Neebotz - MD'
 
 // read database
 let tebaklagu = db.data.game.tebaklagu = []
