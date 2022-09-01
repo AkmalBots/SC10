@@ -16,8 +16,8 @@ global.xteam = 'apivproject'
 global.lolhuman = 'yourkey'
 
 // Other
-global.owner = ['6281511480762']
-global.premium = ['6281511480762']
+global.owner = ['6281269734000']
+global.premium = ['6281269734000']
 global.ownername = 'Akmal'
 global.botname = 'Nebotz•MD'
 global.packname = '© YahyaGanzz'
