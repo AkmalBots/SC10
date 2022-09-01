@@ -18,15 +18,15 @@ global.lolhuman = 'yourkey'
 // Other
 global.owner = ['6281511480762']
 global.premium = ['6281511480762']
-global.ownername = 'YahyaGanzz'
-global.botname = 'AzzBot•MD'
+global.ownername = 'Akmal'
+global.botname = 'Nebotz•MD'
 global.packname = '© YahyaGanzz'
 global.gc = 'https://github.com/AzzBott679'
 global.linkyt = 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
 global.linkgc = 'https://chat.whatsapp.com/CkguID8hSdSFAaBrKNHLSr'
 global.limitawal = '10'
-global.author = '@yahyaganzz\n@AzzBot'
-global.sessionName = 'sessionya'
+global.author = '@Akmal\n@Nebotz'
+global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
 global.mess = {
@@ -42,7 +42,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 500
 }
 global.sc = fs.readFileSync('./media/sc.jpg')
 global.tq = fs.readFileSync('./media/tq.jpg')
