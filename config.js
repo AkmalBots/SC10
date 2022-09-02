@@ -20,7 +20,7 @@ global.owner = ['6281269734000']
 global.premium = ['6281269734000']
 global.ownername = 'Akmal'
 global.botname = 'Nebotz•MD'
-global.packname = '© YahyaGanzz'
+global.packname = '© Subs Holer GTPS'
 global.gc = 'https://github.com/AzzBott679'
 global.linkyt = 'https://youtube.com/channel/UCTmcFqM5DUtRzVbkYr6pENA'
 global.linkgc = 'https://chat.whatsapp.com/JTeGBeurcJD2RbBj8MzhDU'
@@ -37,7 +37,7 @@ global.mess = {
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Tunggu sebentar, sedang di proses',
+    wait: 'Tunggu sebentar, Jangan Lupa Subscribe Holer GTPS',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
