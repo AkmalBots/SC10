@@ -31,11 +31,11 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
 global.mess = {
     success: 'Berhasil',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
+    admin: 'Fitur Itu Buat Admin Jamall❕',
+    botAdmin: 'Jadiin Bot Admin Baru Bisa 🤡',
+    owner: 'Eitss Fitur Itu Untuk Owner Aja✨',
+    group: 'Make Fitur Itu Di Grup❕',
+    private: 'Private Chat Aja Kalo Make Fitur Itu 🙏',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     wait: 'Tunggu sebentar, Jangan Lupa Subscribe Holer GTPS',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
